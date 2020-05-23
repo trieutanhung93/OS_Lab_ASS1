@@ -1,0 +1,1 @@
+Kernel version cho Bài tập lớn 1 đổi lại là 5.6.8.
